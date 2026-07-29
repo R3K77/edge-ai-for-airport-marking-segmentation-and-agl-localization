@@ -20,6 +20,17 @@ The models were evaluated on:
 - Raspberry Pi 5 with Hailo-8,
 - NVIDIA Jetson AGX Orin.
 
+## Example results
+
+### Airport surface marking segmentation
+
+![Airport surface marking segmentation](lines_segmentation/screen1.png)
+![Airport surface marking segmentation](lines_segmentation/screen2.png)
+
+### AGL lamp localization
+
+![AGL lamp localization](AGL/HRNet1.png)
+
 ## Repository structure
 
 ```text
