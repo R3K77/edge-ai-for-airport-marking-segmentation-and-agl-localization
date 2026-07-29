@@ -1,0 +1,2 @@
+pixel_accuracy,macro_precision_no_bg,macro_recall_no_bg,macro_f1_no_bg,mean_iou_no_bg,mean_dice_no_bg,mean_specificity_no_bg,num_test_images,total_inference_time_s,avg_time_per_image_s,avg_time_per_image_ms,fps
+0.9919754615196809,0.9402727095949033,0.9612221331536419,0.9503285157049595,0.9055858519681474,0.9503285207027422,0.9978508236817711,65,0.7791181182861329,0.011986432589017429,11.986432589017427,83.42765811040812
