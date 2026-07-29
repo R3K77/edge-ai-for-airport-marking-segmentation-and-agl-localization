@@ -31,6 +31,15 @@ The models were evaluated on:
 
 ![AGL lamp localization](AGL/HRNet1.png)
 
+## Dataset
+
+The dataset used in this project is not publicly available.
+
+Access may be provided for research purposes upon reasonable request. Please contact:
+
+**Kacper Podbucki**  
+kacper.podbucki@put.poznan.pl
+
 ## Repository structure
 
 ```text
