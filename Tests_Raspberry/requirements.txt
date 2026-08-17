@@ -1,0 +1,6 @@
+numpy>=1.23,<2
+opencv-python>=4.7,<5
+pandas>=1.5,<3
+matplotlib>=3.6,<4
+onnxruntime>=1.14,<2
+psutil>=5.9,<8
