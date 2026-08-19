@@ -20,6 +20,9 @@ The models were evaluated on:
 - Raspberry Pi 5 with Hailo-8,
 - NVIDIA Jetson AGX Orin.
 
+## Requirements
+The requirements for the Raspberry Pi 5 with Hailo-8 are located in the Tests_Raspberry folder, while those for the NVIDIA Jetson AGX Orin can be found in the Tests_Orin folder.
+
 ## Example results
 
 ### Airport surface marking segmentation
